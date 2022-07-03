@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/pathumirashmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pathumirashmika" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pathumi-rashmika-6b69a922b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2ghvUvJBTc%2BSPQxEfD7U9w%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathumi rashmika" height="30" width="40" /></a>
-<a href="https://fb.com/pathumi rashmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pathumi rashmika" height="30" width="40" /></a>
+<a href="https://www.facebook.com/pathumi.rashmika.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pathumi rashmika" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
